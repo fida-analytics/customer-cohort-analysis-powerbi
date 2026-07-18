@@ -108,7 +108,6 @@ customer-cohort-analysis-powerbi/
 ├── Online Retail.xlsx
 ├── Customer_Churn_Analysis_Screenshot.png
 ├── README.md
-└── LICENSE
 ```
 
 ---
