@@ -66,7 +66,7 @@ This dashboard helps answer questions such as:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard/Customer_Cohort_Analysis_Dashboard.png)
+![Dashboard](Customer_Cohort_Analysis_Dashboard.png)
 
 ---
 
